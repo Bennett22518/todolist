@@ -1,0 +1,20 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+label{
+    font-size: 20px;
+}
+p a{
+    color: black;
+}
+.body{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+button{
+    width: 400px;
+}

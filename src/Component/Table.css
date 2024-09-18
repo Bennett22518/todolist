@@ -1,0 +1,8 @@
+.body{
+    min-height: 50vh;
+    position: absolute;
+    left:280px;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+}
